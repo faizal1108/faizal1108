@@ -18,24 +18,55 @@ I enjoy crafting clean UI, writing scalable backend APIs, and continuously learn
 # 🛠️ Skills & Technologies  
 
 
-
+<h3>📝 Languages</h3>
 <table>
   <tr>
     <td>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
     </td>
-    <td>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    </td>
+  </tr>
+</table>
+
+<!-- Environment / Runtime -->
+<h3>🖥️ Environment / Runtime</h3>
+<table>
+  <tr>
     <td>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
     </td>
   </tr>
+</table>
 
+<!-- Libraries -->
+<h3>📚 Libraries</h3>
+<table>
   <tr>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<!-- Frameworks -->
+<h3>🧩 Frameworks</h3>
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    </td>
     <td>
       <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     </td>
+  </tr>
+</table>
+
+<!-- Databases -->
+<h3>🗄️ Databases</h3>
+<table>
+  <tr>
     <td>
       <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
     </td>
@@ -43,7 +74,11 @@ I enjoy crafting clean UI, writing scalable backend APIs, and continuously learn
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
     </td>
   </tr>
+</table>
 
+<!-- Development Tools -->
+<h3>🛠️ Development Tools</h3>
+<table>
   <tr>
     <td>
       <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -54,20 +89,15 @@ I enjoy crafting clean UI, writing scalable backend APIs, and continuously learn
     <td>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
     </td>
-  </tr>
-
-  <tr>
     <td>
       <img src="https://img.shields.io/badge/Postman-EA6B35?style=for-the-badge&logo=postman&logoColor=white" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
     </td>
     <td>
       <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
     </td>
   </tr>
 </table>
+
 
 
 ---
