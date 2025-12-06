@@ -1,6 +1,6 @@
 <!-- Banner (optional — you can add your own image link) -->
 <p align="center">
-  <img src="" alt="Mohamed Faizal Banner" />
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQEzsU2-q6kOpg/profile-displaybackgroundimage-shrink_350_1400/B56Zml0aV6G4AY-/0/1759423605086?e=1766620800&v=beta&t=i5WNZkSliJXnvMZGRz5Xdkd2XTpSju2n6DPh4RZgvFU" alt="Mohamed Faizal Banner" />
 </p>
 
 # 👋 Hi, I'm **Mohamed Faizal N**
@@ -88,13 +88,5 @@ I enjoy crafting clean UI, writing scalable backend APIs, and continuously learn
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faizal1108&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizal1108&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
 
 ### ⭐ *Thanks for visiting my profile!*
