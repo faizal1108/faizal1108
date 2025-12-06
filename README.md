@@ -17,9 +17,7 @@ I enjoy crafting clean UI, writing scalable backend APIs, and continuously learn
 
 # 🛠️ Skills & Technologies  
 
-Below are the tools and technologies I actively work with:
 
-<h2>🚀 Technical Skills</h2>
 
 <table>
   <tr>
@@ -83,7 +81,7 @@ Below are the tools and technologies I actively work with:
   <a href="mailto:faizalasdev@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40">
   </a>
-  <a href="https://github.com/faizal-cs">
+  <a href="https://github.com/faizal1108">
     <img src="https://skillicons.dev/icons?i=github" height="40">
   </a>
 </p>
@@ -93,8 +91,8 @@ Below are the tools and technologies I actively work with:
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faizal-cs&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizal-cs&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=faizal1108&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizal1108&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
